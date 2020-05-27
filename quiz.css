@@ -1,0 +1,41 @@
+body{
+	background-color:DodgerBlue;
+}
+#questionbox{
+	width:60%;
+	font-family:'verdana';
+	font-size:14px;
+	background-color:#A9A9A9;
+	margin:20px auto; 
+	overflow:auto;
+	padding:50px;
+}
+header{
+	text-align: center;
+	border-bottom:#fff dashed 1px;
+}
+header h1{
+	margin:0;
+	padding:0;
+}
+header h4{
+	padding:0;
+	margin-top:5px;
+	color:Black;
+	font-family:'Arial' 
+}
+input[type='submit']{
+	border:0;
+	padding:10px 15px;
+	cursor:pointer;
+}
+#results h3{
+	background:#f06226;
+	padding:10px;
+	margin:10px 0;
+} 
+#results span{
+	color:White;
+	font-weight:bold;
+}
+
